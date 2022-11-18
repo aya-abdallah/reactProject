@@ -14,7 +14,7 @@
     "react-items-carousel": "^2.3.6",
     "react-leaf-carousel": "^1.2.2",
     "react-popper": "0.9.2",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "5.0.0"
   },
   "scripts": {
